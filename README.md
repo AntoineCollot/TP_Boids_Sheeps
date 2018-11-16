@@ -5,7 +5,7 @@
 L'objectif de cet exercice est d'implémenter l'algorithme décrit dans l'article suivant :
 http://www.csc.kth.se/utbildning/kth/kurser/DD143X/dkand13/Group9Petter/report/Martin.Barksten.David.Rydberg.report.pdf
 
-Cet article propose de une variante de l'algorithme de Reynolds sur le comportement d'une nuée d'oiseau ou d'un troupeau. Le but est d'adapter cet algorithme à un troupeau de mouton.
+Cet article propose une variante de l'algorithme de Reynolds sur le comportement d'une nuée d'oiseau ou d'un troupeau. Le but est d'adapter cet algorithme à un troupeau de mouton.
 
 ![alt text](Resultat.gif "Resultat")
 
