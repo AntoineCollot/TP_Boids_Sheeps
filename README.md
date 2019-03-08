@@ -39,7 +39,7 @@ Dans le script __*SheepBoid*__ :
 1. Implémenter la régle de séparation 3.5.
 	* Bonus : Visualiser le vecteur produit à l'aide d'un *Debug.DrawRay()* de couleur noir.
 1. Implémenter la régle d'alignement 3.6.
-	* Remplacer la notion de rayon de __50 pixels__ par une variable __*flightZoneRadius*__ (valeur en annexe).
+	* Remplacer la notion de rayon de __50 pixels__ par une variable __*alignementZoneRadius*__ (valeur en annexe).
 	* Bonus : Visualiser le vecteur produit à l'aide d'un *Debug.DrawRay()* de couleur jaune.
 1. Implémenter la régle de fuite 3.8.
 	* Changer la valeur du paramètre __10__ par __2__.
