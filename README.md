@@ -55,6 +55,12 @@ Dans le script __*SheepBoid*__ :
 
 1. Proposer une règle supplémentaire qui permette aux moutons d'interagir avec le berger, par exemple une régle d'évitement pour éviter les collisions avec le berger, ou encore une régle de cible, pour permettre aux moutons de suivre le berger.
 
+## Rendu
+
+Envoyez sur mon mail (vous pouvez utiliser https://wetransfer.com/) :
+1. Un .zip contenant les dossiers Assets et ProjectSettings de votre projet
+1. Une vidéo/gif démontrant les fonctionalités de votre application. (Vous pouvez utiliser https://www.screentogif.com, ou sur windows Win+G, ou faire une vidéo via téléphone).
+
 ## Annexe - Valeurs des variables
 
 | Variable             | Value |
